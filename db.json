@@ -1,0 +1,32 @@
+{
+  "admin": [
+    {
+      "id": "1",
+      "email": "admin@gmail.com",
+      "password": "admin123"
+    }
+  ],
+  "locations": [
+    {
+      "id": "fa7c",
+      "city": "Kannur",
+      "district": "Kannur",
+      "state": "Kerala",
+      "country": "India"
+    },
+    {
+      "id": "7511",
+      "city": "Kochi",
+      "district": "Eranakulam",
+      "state": "Kerala",
+      "country": "India"
+    },
+    {
+      "id": "d8a1",
+      "city": "Vadakara",
+      "district": "Kozhikode",
+      "state": "Kerala",
+      "country": "India"
+    }
+  ]
+}
